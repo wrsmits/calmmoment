@@ -80,7 +80,7 @@ public class Tip {
         return tipDate;
     }
 
-    public final void setTipDate(Date tipDate) {
+    public void setTipDate(Date tipDate) {
         this.tipDate = tipDate;
     }
 

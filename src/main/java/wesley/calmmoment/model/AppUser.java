@@ -35,7 +35,7 @@ public class AppUser {
         return userName;
     }
 
-    public final void setUserName(String userName) {
+    public void setUserName(String userName) {
         this.userName = userName;
     }
 
